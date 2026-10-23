@@ -1,0 +1,11 @@
+Order_ID,Product,Sales,Quantity,Profit
+101,Laptop,50000,2,8000
+102,Mouse,500,5,100
+103,Keyboard,1500,3,300
+104,Monitor,12000,1,2000
+105,Laptop,50000,2,8000
+106,Mouse,,4,80
+107,Keyboard,1500,2,250
+108,Monitor,-500,1,-100
+109,Laptop,60000,2,9000
+110,Mouse,500,3,90
